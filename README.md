@@ -16,7 +16,7 @@ For this configuration, the CloudSQL API is defined by:
 - a [PostgreSQLInstance](/apis/definition.yaml) type
 - the PostgreSQLInstance is [composed](/apis/composition.yaml) of a single DBInstance resource.
 
-This repository also contains an [example claim](/.up/examples/postgres.yaml). You can apply this file on your control plane to invoke the CloudSQL API and cause a database to be created.
+This repository also contains an [example claim](/.up/examples/postgresql.yaml). You can apply this file on your control plane to invoke the CloudSQL API and cause a database to be created.
 
 ## Next Steps
 

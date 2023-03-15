@@ -2,7 +2,7 @@
 
 This repository contains the definition for a [Crossplane configuration](https://docs.crossplane.io/v1.11/concepts/packages/#configuration-packages) that bundles a set of API definitions. This configuration is a starting point for new users who are creating their first control plane in [Upbound](https://cloud.upbound.io).
 
-When this configuration is installed on a control plane, the control plane will have APIs to provision fully configured Google Cloud Platform (GCP) CloudSQL instances, composed using cloud service primitives from the [Upbound Official GCP Provider](https://marketplace.upbound.io/providers/upbound/provider-gcp).](https://marketplace.upbound.io/providers/upbound/provider-aws).
+When this configuration is installed on a control plane, the control plane will have APIs to provision fully configured Google Cloud Platform (GCP) CloudSQL instances, composed using cloud service primitives from the [Upbound Official GCP Provider](https://marketplace.upbound.io/providers/upbound/provider-gcp).
 
 ## What's Inside
 

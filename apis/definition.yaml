@@ -50,6 +50,7 @@ spec:
                       The machine size for this PostgreSQLInstance.
                   storage:
                     type: integer
+                    minimum: 10
                     description: |
                       The storage size for this PostgreSQLInstance in GB.
                 required:
